@@ -1,0 +1,6 @@
+{
+    "require": {
+        "fabpot/goutte": "~2.0",
+        "symfony/process": "~2.5"
+    }
+}
